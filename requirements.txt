@@ -1,0 +1,12 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+aiohttp==3.9.1
+pandas==2.1.4
+openai==1.6.1
+python-dotenv==1.0.0
+lxml==4.9.3
+newspaper3k==0.2.8
+nltk==3.8.1
+schedule==1.2.0
+flask==2.3.3
